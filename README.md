@@ -15,8 +15,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter logo" width="20" height="20">
     </a>
     &nbsp;
-    •
-    &nbsp;
     <a href="https://www.reddit.com/user/goestavx">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="Reddit logo" width="20" height="20">
     </a>
