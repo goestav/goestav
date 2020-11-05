@@ -1,8 +1,6 @@
 # Hi, I'm Goestav.
 
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-%23932aff">
-<img src="https://img.shields.io/badge/Tools-Webpack%20&amp;%20Adobe%20XD-white">
-<img src="https://img.shields.io/badge/Languages-HTML,%20CSS,%20JavaScript,%20PHP,%20Python%20&amp;%20SQL-%23009cd4">
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-%23932aff">&nbsp;<img src="https://img.shields.io/badge/Tools-Webpack%20&amp;%20Adobe%20XD-white">&nbsp;<img src="https://img.shields.io/badge/Languages-HTML,%20CSS,%20JavaScript,%20PHP,%20Python%20&amp;%20SQL-%23009cd4">
 <br>
 <br>
 <img src="https://img.shields.io/badge/Preprocessors/Frameworks-BabelJS,%20SCSS%20(SASS)%20&amp;%20Laravel-black">
