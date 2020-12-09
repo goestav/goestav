@@ -24,5 +24,5 @@
 
 ### What am I currently doing?
 - 👨🏾‍💻 Looking into new technologies
-- ‍💻 Learning GraphQL and C#
+- ‍👀 Working on a project for MacOS
 - ‍🎨 Getting inspiration from Dribbble
