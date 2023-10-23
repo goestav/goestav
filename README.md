@@ -4,8 +4,8 @@
   <h1>Hello, I'm Gus.</h1>
 </div>
 
-<img src="https://img.shields.io/badge/I'm%20a-Full--stack%20Developer-%23932aff?style=for-the-badge"> <a href="https://www.buymeacoffee.com/goestav">
-    <img src="https://img.shields.io/badge/🍺-Buy%20me%20a%20beer-%23FADD4B?style=for-the-badge" alt="BuyMeACoffee logo">
+<img src="https://img.shields.io/badge/I'm%20a-Full--stack%20Developer-%23932aff?style=for-the-badge"> <a href="https://www.ko-fi.com/goestav">
+    <img src="https://img.shields.io/badge/🍺-Buy%20me%20a%20beer-%23FADD4B?style=for-the-badge" alt="Support me on ko-fi">
 </a>
 
 ---
