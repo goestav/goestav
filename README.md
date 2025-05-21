@@ -5,7 +5,7 @@
 </div>
 
 <img src="https://img.shields.io/badge/I'm%20a-Full--stack%20Developer-%23932aff?style=for-the-badge"> <a href="https://www.ko-fi.com/goestav">
-    <img src="https://img.shields.io/badge/🍺-Buy%20me%20a%20beer-%23FADD4B?style=for-the-badge" alt="Support me on ko-fi">
+    <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-%23FADD4B?style=for-the-badge" alt="Support me on ko-fi">
 </a>
 
 ---
